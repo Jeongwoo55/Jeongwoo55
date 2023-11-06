@@ -1,7 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on [Freetail Hackers](https://github.com/FreetailHackers)
-- 🌱 I’m currently learning Svelte.js, network sockets, and AWS
-- 📫 How to reach me: jeongwoo@utexas.edu
-- 😄 Pronouns: he/him
-
-Also, check me out on [GitLab](https://gitlab.com/jeongwooc)
+## Hey!
+Here's some info about me:
+- jeongwoo@utexas.edu
+- he/him pronouns
+- learning svelte.js, rust, and cuda
+- [my personal space on the web](https://jeongwoo.xyz/)
+- [Freetail Hackers](https://github.com/FreetailHackers) Alumn
+- [GitLab](https://gitlab.com/jeongwooc)
